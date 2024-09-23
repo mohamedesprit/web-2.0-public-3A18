@@ -1,0 +1,12 @@
+{
+    "workbench.colorCustomizations": {
+        "editor.background":"#151724"
+    },
+
+    "emmet.includeLanguages": {
+        "twig": "html"
+    },
+    "emmet.useInlineCompletions": true,
+    
+}
+
